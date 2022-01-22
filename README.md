@@ -14,7 +14,7 @@ This tool is an almost complete and powerful tool derived from the Python langua
 - cloudflare bypass
 - brotforce
 - portscanner
-<p>**Wordpress:**</p>
+-**Wordpress:**
 - scan plugin
 - get user
 
