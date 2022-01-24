@@ -1,34 +1,30 @@
-This tool is an almost complete and powerful tool derived from the Python language
-
-- Powered by Python
-- Fairly attractive UI
-- Using different api
-
-## Tools:
-
-- admin finder
-- ip lookup
-- Looking at site technology
-- DNS lookup
-- verifiemail[beta]
-- cloudflare bypass
-- brotforce
-- portscanner
-- and more . . . 
-
-## Installation
-
-This tool requires[python](https://www.python.org/), any version.
-
-```sh
-pip install requests
-pip install Fore
-```
-
-
-
-
-
-
-
-
+<img width="1050" height="200" src="images/one.png">
+<hl>
+<br>
+<h3>Tools</h3>
+<ol>
+  <li>Bypass cd</li>
+  <li>Admin finder</li>
+  <li>brotforce</li>
+  <li>dns lookup</li>
+  <li>ip location</li>
+  <li>revirceadress</li>
+  <li>scanner port</li>
+  <li>see techolojy</li>
+  <li>who is</li>
+  <li>find user name wp</li>
+  <li>find plugin wp</li>
+</ol> 
+<hl>
+<br>
+<h3>other(FUN)</h3>
+<ol>
+    <li>verify email</li>
+    <li>send message whatsapp[beta]</li>
+    <li>handwriter</li>
+</ol>
+<hl>
+<br>
+<h2>connect with me</h2>
+<br>
+<img src="https://discord.c99.nl/widget/theme-4/599883507418005510.png" alt="discord info">
