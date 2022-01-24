@@ -16,8 +16,8 @@ def banner():
     ██║██║░░██║██╗██║░╚███║╚█████╔╝██║░░░░░╚█████╔╝███████╗
     ╚═╝╚═╝░░╚═╝╚═╝╚═╝░░╚══╝░╚════╝░╚═╝░░░░░░╚════╝░╚══════╝
 
-                        developer : Sorena gordn
-                        discord id : ✡ Sorena ᵍᵒʳᵈᵃᶰ#2939
+                        developer : Amirali
+                        discord id : see a git hub page :))
                         Discord server : comming soon...
     ======================================================
     """)
